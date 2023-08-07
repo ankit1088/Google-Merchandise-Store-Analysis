@@ -11,7 +11,7 @@
 
 # Google Analytics: # 
 
-
+![image](https://github.com/ajshahdrashti/Google-Merchandise-Store-Analysis/assets/112719599/c49251eb-dcc2-43d4-9e33-8d57b7208d83)
 
 # Performed Analysis and tried answering the following questions: #
 
@@ -54,6 +54,7 @@ b.	What is the number of new users in the last 14 days and what is the revenue g
 # Cohort Analytics:# 
 
 
+![image](https://github.com/ajshahdrashti/Google-Merchandise-Store-Analysis/assets/112719599/51bb524e-55ca-440d-a0ed-1013ec65aa07)
 
 
 Performed Analysis and tried answering the following questions:
@@ -67,6 +68,8 @@ Performed Analysis and tried answering the following questions:
 
 # Funnel Analytics:# 
 
+
+![image](https://github.com/ajshahdrashti/Google-Merchandise-Store-Analysis/assets/112719599/cd1ab23a-1bdf-4714-9d9b-19e250b8f7d0)
 
 
 
